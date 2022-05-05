@@ -1,7 +1,7 @@
 use core::f32::consts::PI;
 
 const UNIT: i32 = 1;
-const RATE: f32 = 100.0;
+const RATE: f32 = 200.0;
 
 const IMG: &str = "onepiece17_doflamingo.png";
 const WIDTH: i32 = 400;
